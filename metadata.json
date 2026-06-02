@@ -1,0 +1,6 @@
+{
+  "name": "Yala Clean City",
+  "description": "ระบบแจ้งปัญหาขยะและสิ่งแวดล้อมสำหรับประชาชนในจังหวัดยะลา เพื่อพัฒนาคุณภาพชีวิตและสิ่งแวดล้อมในชุมชนอย่างยั่งยืน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
